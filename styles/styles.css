@@ -24,6 +24,7 @@
   --joes-button-primary-color: white;
   --joes-button-primary-hover-color: grey;
   --joes-button-primary-disabled-color: var(--light-color);
+  --joes-button-secondary-background-color: white;
   --joes-highlight-color: #f0f0f0;
 
 
@@ -220,7 +221,8 @@ button:disabled:hover {
 
 a.button.secondary,
 button.secondary {
-  background-color: unset;
+ /* background-color: unset; */
+  background-color: var(--joes-button-secondary-background-color);
   border: 2px solid currentcolor;
   color: var(--text-color);
 }
