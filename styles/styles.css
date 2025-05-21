@@ -13,17 +13,19 @@
 :root {
   /* colors */
   --background-color: white;
-  --light-color: #888888;
+  --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
-  /* joe's colors */
-  --button-primary-background-color: black;
-  --button-primary-color: white;
-  --button-primary-hover-color: grey;
-  --button-primary-disabled-color: var(--light-color);
+  /* joes colors */
+  --joes-button-primary-background-color: black;
+  --joes-button-primary-color: white;
+  --joes-button-primary-hover-color: grey;
+  --joes-button-primary-disabled-color: var(--light-color);
+  --joes-highlight-color: grey;
+
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
@@ -195,8 +197,8 @@ button {
   line-height: 1.25;
   text-align: center;
   text-decoration: none;
-  background-color: var(--button-primary-background-color);
-  color: var(--button-primary-color);
+  background-color: var(--joes-button-primary-background-color);
+  color: var(--joes-button-primary-color);
   cursor: pointer;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -206,7 +208,7 @@ a.button:hover,
 a.button:focus,
 button:hover,
 button:focus {
-  background-color: var(--button-primary-hover-color);
+  background-color: var(--joes-button-primary-hover-color);
   cursor: pointer;
 }
 
@@ -264,7 +266,8 @@ main > .section:first-of-type {
 /* section metadata */
 main .section.light,
 main .section.highlight {
-  background-color: var(--light-color);
+  /* background-color: var(--light-color); */
+  background-color: var(--joes-highlight-color);
   margin: 0;
   padding: 40px 0;
 }
