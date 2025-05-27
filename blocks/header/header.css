@@ -138,14 +138,17 @@ header nav[aria-expanded='true'] .nav-hamburger-icon::after {
 /* brand */
 header .nav-brand {
   grid-area: brand;
+   /* removed to elimnate truncation of chipotle logo
   flex-basis: 128px;
+  */
   font-size: var(--heading-font-size-s);
   font-weight: 700;
   line-height: 1;
 }
 
 header nav .nav-brand img {
-  width: 128px;
+  /* Original width: 128px; */
+  width: 63px;
   height: auto;
 }
 
