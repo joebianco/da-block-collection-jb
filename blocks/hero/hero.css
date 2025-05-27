@@ -33,6 +33,8 @@
 /* JOES STUFF */
 .hero p {
   color: var(--background-color);
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media (width >= 900px) {
