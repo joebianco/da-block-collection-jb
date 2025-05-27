@@ -30,6 +30,11 @@
   height: 100%;
 }
 
+/* JOES STUFF */
+.hero p {
+  color: var(--background-color);
+}
+
 @media (width >= 900px) {
   .hero {
     padding: 40px 32px;
