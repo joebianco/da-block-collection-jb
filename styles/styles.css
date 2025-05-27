@@ -20,6 +20,7 @@
   --link-hover-color: #1d3ecf;
 
   /* joes colors
+  --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
   --joes-button-primary-color: white;
   --joes-button-primary-hover-color: grey;
@@ -31,6 +32,7 @@
   */
 
   /* chipotle colors */
+  --joes-nav-height: 100px;
   --joes-button-primary-background-color: #451400;
   --joes-button-primary-color: white;
   --joes-button-primary-hover-color: #6c321b;
@@ -59,7 +61,8 @@
   --heading-font-size-xs: 22px;
 
   /* nav heights */
-  --nav-height: 64px;
+  /* --nav-height: 64px; */
+  --nav-height: var(--joes-nav-height);
   --breadcrumbs-height: 34px;
   --header-height: var(--nav-height);
 }
