@@ -19,7 +19,7 @@
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
-  /* joes colors  
+  /* joes colors   */
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
   --joes-button-primary-color: white;
@@ -30,9 +30,7 @@
   --joes-button-secondary-text-color: grey;
   --joes-highlight-color: #f0f0f0;
 
-  */
-
-    /* cat colors  */
+  /* cat colors  
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: #ffcd11;
   --joes-button-primary-color: black;
@@ -42,6 +40,7 @@
   --joes-button-secondary-border-color: grey;
   --joes-button-secondary-text-color: grey;
   --joes-highlight-color: #f0f0f0;
+  */
  
   /* chipotle colors 
   --joes-nav-height: 75px;
