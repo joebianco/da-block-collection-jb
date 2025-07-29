@@ -19,7 +19,7 @@
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
-  /* joes colors   */
+  /* joes colors   
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
   --joes-button-primary-color: white;
@@ -28,6 +28,18 @@
   --joes-button-secondary-background-color: white;
   --joes-button-secondary-border-color: grey;
   --joes-button-secondary-text-color: grey;
+  --joes-highlight-color: #f0f0f0;
+  */
+
+    /* Panera colors   */
+  --joes-nav-height: 64px;
+  --joes-button-primary-background-color: #e2eb75;
+  --joes-button-primary-color: #274225;
+  --joes-button-primary-hover-color: #ccd569;
+  --joes-button-primary-disabled-color: var(--light-color);
+  --joes-button-secondary-background-color: white;
+  --joes-button-secondary-border-color: grey;
+  --joes-button-secondary-text-color: #274225;
   --joes-highlight-color: #f0f0f0;
 
   /* cat colors  
