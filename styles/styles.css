@@ -13,13 +13,13 @@
 :root {
   /* colors */
   --background-color: white;
-  --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
   /* joes colors   
+  --light-color: #f8f8f8;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
   --joes-button-primary-color: white;
@@ -32,6 +32,7 @@
   */
 
     /* Panera colors   */
+  --light-color: #f4f3e7;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: #e2eb75;
   --joes-button-primary-color: #274225;
@@ -43,6 +44,7 @@
   --joes-highlight-color: #f4f3e7;
 
   /* cat colors  
+  --light-color: #f8f8f8;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: #ffcd11;
   --joes-button-primary-color: black;
@@ -55,6 +57,7 @@
   */
  
   /* chipotle colors 
+  --light-color: #f8f8f8;
   --joes-nav-height: 75px;
   --joes-button-primary-background-color: #451400;
   --joes-button-primary-color: white;
