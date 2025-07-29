@@ -20,7 +20,7 @@
 
   /* joes colors   
   --light-color: #f8f8f8;
-  --joes-nav-height: 75px;
+  --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
   --joes-button-primary-color: white;
   --joes-button-primary-hover-color: grey;
@@ -33,7 +33,7 @@
 
     /* Panera colors   */
   --light-color: #f4f3e7;
-  --joes-nav-height: 64px;
+  --joes-nav-height: 75px;
   --joes-button-primary-background-color: #e2eb75;
   --joes-button-primary-color: #274225;
   --joes-button-primary-hover-color: #ccd569;
