@@ -31,7 +31,7 @@
   --joes-highlight-color: #f0f0f0;
   */
 
-    /* Panera colors   */
+    /* Panera colors  
   --light-color: #f4f3e7;
   --joes-nav-height: 75px;
   --joes-button-primary-background-color: #e2eb75;
@@ -42,8 +42,9 @@
   --joes-button-secondary-border-color: grey;
   --joes-button-secondary-text-color: #274225;
   --joes-highlight-color: #f4f3e7;
-
-  /* cat colors  
+ */
+  
+  /* cat colors  */
   --light-color: #f8f8f8;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: #ffcd11;
@@ -54,7 +55,7 @@
   --joes-button-secondary-border-color: grey;
   --joes-button-secondary-text-color: grey;
   --joes-highlight-color: #f0f0f0;
-  */
+  
  
   /* chipotle colors 
   --light-color: #f8f8f8;
