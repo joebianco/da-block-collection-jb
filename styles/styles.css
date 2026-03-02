@@ -34,11 +34,11 @@
   /* Zonnic colors   */
   --light-color: #f8f8f8;
   --joes-nav-height: 64px;
-  --joes-button-primary-background-color: f19d3e;
+  --joes-button-primary-background-color: #f19d3e;
   --joes-button-primary-color: white;
   --joes-button-primary-hover-color: grey;
   --joes-button-primary-disabled-color: var(--light-color);
-  --joes-button-secondary-background-color: ee7c68;
+  --joes-button-secondary-background-color: #ee7c68;
   --joes-button-secondary-border-color: white;
   --joes-button-secondary-text-color: white;
   --joes-highlight-color: #f0f0f0;
