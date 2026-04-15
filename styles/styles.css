@@ -18,7 +18,7 @@
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
 
-  /* WKND colors  
+  /* WKND colors  */
   --light-color: #f8f8f8;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
@@ -29,9 +29,9 @@
   --joes-button-secondary-border-color: grey;
   --joes-button-secondary-text-color: grey;
   --joes-highlight-color: #f0f0f0;
-  */
+  
    
-  /* Colgate-Palmolive colors  */
+  /* Colgate-Palmolive colors 
   --light-color: #f8f8f8;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: #2451d0;
@@ -42,6 +42,7 @@
   --joes-button-secondary-border-color: #2451d0;
   --joes-button-secondary-text-color: #2451d0;
   --joes-highlight-color: #f0f0f0;
+   */
   
   /* Zonnic colors   
   --light-color: #f8f8f8;
