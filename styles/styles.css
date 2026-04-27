@@ -19,8 +19,8 @@
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-  
   --light-color: #f8f8f8;
+  
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: black;
   --joes-button-primary-color: white;
@@ -36,12 +36,12 @@
   /* Freshcope colors  */
 
   --background-color: black;
-  --dark-color: #927c4f;
+  --dark-color: white;
   --text-color: white;
   --link-color: #927c4f;
   --link-hover-color: white;
+  --light-color: #927c4f;
   
-  --light-color: #f8f8f8;
   --joes-nav-height: 64px;
   --joes-button-primary-background-color: #927c4f;
   --joes-button-primary-color: white;
