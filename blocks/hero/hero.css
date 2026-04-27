@@ -13,7 +13,14 @@
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: var(--background-color);
+  
+  /* WKND 
+  color: var(--background-color); 
+  */
+
+  /* Freshcope */
+  color: white;
+
 }
 
 .hero picture {
