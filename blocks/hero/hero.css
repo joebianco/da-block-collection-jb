@@ -39,7 +39,12 @@
 
 /* JOES STUFF */
 .hero p {
+  /* default for light background 
   color: var(--background-color);
+  */
+  /* freschcope dark background */
+  color: white;
+  
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
