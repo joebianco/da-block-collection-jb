@@ -17,8 +17,8 @@ import DA_SDK from 'https://da.live/nx/utils/sdk.js';
     const close = document.createElement('button');
     close.textContent = `Send & close | ${context[key]}`;
     close.addEventListener('click', () => {
-        actions.sendText(context[key]);
-        actions.closeLibrary();
+      actions.sendText(context[key]);
+      actions.closeLibrary();
     });
 
     document.body.append(h3, send, close);
