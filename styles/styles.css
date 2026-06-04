@@ -12,7 +12,7 @@
 
 :root {
 
-  /* WKND colors  
+  /* WKND colors  */
 
   --background-color: white;
   --dark-color: #505050;
@@ -31,10 +31,10 @@
   --joes-button-secondary-text-color: grey;
   --joes-highlight-color: #f0f0f0;
   --joes-hero-text-color: white;
-*/
+
 
   
-  /* Freshcope colors  */
+  /* Freshcope colors  
 
   --background-color: black;
   --dark-color: white;
@@ -48,12 +48,12 @@
   --joes-button-primary-color: white;
   --joes-button-primary-hover-color: grey;
   --joes-button-primary-disabled-color: var(--light-color);
-  --joes-button-secondary-background-color: white;
+  --joes-button-secondary-background-color: rgb(255, 255, 255);
   --joes-button-secondary-border-color: grey;
   --joes-button-secondary-text-color: grey;
   --joes-highlight-color: #292418;
   --joes-hero-text-color: white;
-
+*/
   
   
    
