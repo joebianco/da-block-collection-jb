@@ -147,8 +147,13 @@ header .nav-brand {
 }
 
 header nav .nav-brand img {
-  /* Original width: 128px; */
-  width: 200px;
+  /* WKND default
+ 
+  width: 128px;
+  height: auto;
+
+}*/
+  width: auto;
   height: auto;
 }
 
