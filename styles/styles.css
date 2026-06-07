@@ -12,7 +12,7 @@
 
 :root {
 
-  /* WKND colors  */
+  /* WKND colors  
 
   --background-color: white;
   --dark-color: #505050;
@@ -32,8 +32,30 @@
   --joes-highlight-color: #f0f0f0;
   --joes-hero-text-color: white;
 
+  */
 
+
+    /* Heryshey's colors  */
+
+  --background-color: white;
+  --dark-color: #505050;
+  --text-color: #40000b;
+  --link-color: #3b63fb;
+  --link-hover-color: #1d3ecf;
+  --light-color: #f8f8f8;
   
+  --joes-nav-height: 64px;
+  --joes-button-primary-background-color: #007bbe;
+  --joes-button-primary-color: white;
+  --joes-button-primary-hover-color: grey;
+  --joes-button-primary-disabled-color: var(--light-color);
+  --joes-button-secondary-background-color: white;
+  --joes-button-secondary-border-color: grey;
+  --joes-button-secondary-text-color: grey;
+  --joes-highlight-color: #ffead0;
+  --joes-hero-text-color: white;
+
+
   /* Freshcope colors  
 
   --background-color: black;
