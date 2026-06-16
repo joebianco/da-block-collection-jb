@@ -12,7 +12,7 @@
 
 :root {
 
-  /* WKND colors  
+  /* WKND colors & fonts   */
 
   --background-color: white;
   --dark-color: #505050;
@@ -32,18 +32,11 @@
   --joes-highlight-color: #f0f0f0;
   --joes-hero-text-color: white;
 
-  */
-
-    /* WKND fonts 
   --body-font-family: roboto, roboto-fallback, sans-serif;
   --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
-  */
+  
 
-    /* Hershey's fonts */
-  --body-font-family: 'TT Norms Pro',sans-serif;
-  --heading-font-family: 'Gazpacho','TT Norms Pro',sans-serif;
-
-    /* Heryshey's colors  */
+    /* Heryshey's colors & fonts  
 
   --background-color: white;
   --dark-color: #505050;
@@ -63,6 +56,10 @@
   --joes-highlight-color: #ffead0;
   --joes-hero-text-color: white;
 
+  --body-font-family: 'TT Norms Pro',sans-serif;
+  --heading-font-family: 'Gazpacho','TT Norms Pro',sans-serif;
+
+  */
 
   /* Freshcope colors  
 
